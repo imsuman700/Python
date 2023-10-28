@@ -8,4 +8,4 @@ Various Jupyter notebooks and Python sources associated with my Udemy Python 3 D
 - [Part 3](https://www.udemy.com/course/python-3-deep-dive-part-3/?referralCode=C5B0D9AB965B9BF4C49F/): Mainly hash maps
 - [Part 4](https://www.udemy.com/course/python-3-deep-dive-part-4/?referralCode=3BB758BE4C04FB983E6F/): OOP
 
-Many of these require Python 3.6 or above.
+Many of these require Python 3.6 or above. 
